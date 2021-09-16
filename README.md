@@ -2,12 +2,18 @@
 2D Spatial Data, Histogram Equalization, Color Transformation for emission measurements from the emitting material in space.
 
 # Dataset
-In the zip folder orion.zip you can find the description of the data(DataCharacterstics.txt,AllBands.png) and the dataset itself. The dataset is made of 4 .txt file:
+In the zip folder orion.zip you can find the description of the data (DataCharacterstics.txt, AllBands.png) and the dataset itself.
+The dataset is made of 4 .txt file:
+
 
 • i170b1h0_t0.txt  for band 1
+
 • i170b2h0_t0.txt for band 2
+
 • i170b3h0_t0.txt for band 3
+
 • i170b4h0_t0.txt fo band 4
+
 
 # Installation
 Please install needed packages like this:
